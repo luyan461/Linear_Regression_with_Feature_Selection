@@ -1,5 +1,5 @@
-# Exploratory_Data_Analysis
-This is the class project of my statistics course *Intermediate Data Analysis*, and the main focus of this project is about Exploratory Data Analysis with various fundamental concepts in linear regression using RStudio.
+# Linear_Regression_with_Feature_Selection
+In this project, we are going to implement and discuss Exploratory Data Analysis with various fundamental concepts in linear regression using RStudio.
 
 **Keywords**: Linear regression, diagnostic plots, multicollinearity, model selection criteria, stepwise regression algorithms
 
